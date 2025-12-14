@@ -4,10 +4,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.hulkhiretech.payments</groupId>
-	<artifactId>stripe-provider-service</artifactId>
+	<artifactId>payment-stripe-provider-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>stripe-provider-service</name>
-	<description>stripe provider service</description>
+	<name>payment-stripe-provider-service</name>
+	<description>payment-stripe-provider-service</description>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
