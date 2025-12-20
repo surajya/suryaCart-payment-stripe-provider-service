@@ -4,9 +4,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.hulkhiretech.payments</groupId>
-	<artifactId>payment-stripe-provider-service</artifactId>
+	<artifactId>suryaCart-payment-stripe-provider-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>payment-stripe-provider-service</name>
+	<name>suryaCart-payment-stripe-provider-service</name>
 	<description>payment-stripe-provider-service</description>
 
 	<properties>
