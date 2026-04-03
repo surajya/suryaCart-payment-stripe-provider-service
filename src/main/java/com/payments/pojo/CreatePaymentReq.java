@@ -1,4 +1,4 @@
-package com.hulkhiretech.payments.pojo;
+package com.payments.pojo;
 
 import java.util.List;
 

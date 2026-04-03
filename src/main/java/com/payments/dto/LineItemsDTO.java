@@ -1,9 +1,9 @@
-package com.hulkhiretech.payments.pojo;
+package com.payments.dto;
 
 import lombok.Data;
 
 @Data
-public class LineItems {
+public class LineItemsDTO {
 	private String currency;
 	private int quantity;
 	private String productName;
