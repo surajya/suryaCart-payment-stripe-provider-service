@@ -1,8 +1,8 @@
-package com.hulkhiretech.payments.dto;
+package com.payments.dto;
 
 import java.util.List;
 
-import com.hulkhiretech.payments.pojo.LineItems;
+import com.payments.pojo.LineItems;
 
 import lombok.Data;
 
@@ -10,6 +10,6 @@ import lombok.Data;
 public class CreatePaymentDTO{
 	private String successUrl;
 	private String cancelUrl;
-	
+
 	private List<LineItemsDTO> lineItemDTO;
 }

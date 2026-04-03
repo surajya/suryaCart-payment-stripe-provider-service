@@ -1,4 +1,4 @@
-package com.hulkhiretech.payments.config;
+package com.payments.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
