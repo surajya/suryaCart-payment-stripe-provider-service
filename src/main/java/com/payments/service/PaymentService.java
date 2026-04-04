@@ -1,4 +1,4 @@
-package com.payments.service.interfaces;
+package com.payments.service;
 
 import com.payments.dto.CreatePaymentDTO;
 import com.payments.dto.PaymentDTO;
