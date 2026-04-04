@@ -16,7 +16,7 @@ import com.payments.dto.CreatePaymentDTO;
 import com.payments.dto.PaymentDTO;
 import com.payments.pojo.CreatePaymentReq;
 import com.payments.pojo.PaymentReq;
-import com.payments.service.interfaces.PaymentService;
+import com.payments.service.PaymentService;
 
 import lombok.extern.slf4j.Slf4j;
 

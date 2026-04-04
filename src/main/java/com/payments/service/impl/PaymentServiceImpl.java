@@ -1,4 +1,4 @@
-package com.payments.service;
+package com.payments.service.impl;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpHeaders;
@@ -21,7 +21,7 @@ import com.payments.dto.stripe.StripeErrorWrapper;
 import com.payments.error.StripeProviderException;
 import com.payments.http.HttpRequest;
 import com.payments.http.HttpServiceEngine;
-import com.payments.service.interfaces.PaymentService;
+import com.payments.service.PaymentService;
 
 import lombok.extern.slf4j.Slf4j;
 
